@@ -1,3 +1,7 @@
+'''
+Link: https://www.codechef.com/LRNDSA02/problems/PSHOT
+'''
+
 from sys import stdin,stdout
 
 for _ in range(int(stdin.readline())):
